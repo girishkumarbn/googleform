@@ -6,6 +6,7 @@ import java.net.MalformedURLException;
 
 
 public class App {
+	
     public void getGreeting() throws InterruptedException, MalformedURLException {
         
         // This is to remove unnecessary warnings from your console
